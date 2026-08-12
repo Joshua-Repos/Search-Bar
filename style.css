@@ -3,9 +3,21 @@ html {
     scroll-behavior: smooth;
 }
 body {
-    background-color: #00cca3;
+    background-color: #90D5FF;
     font-family: Patrick Hand, serif;
     font-size:25px;
     margin:25px 50px 75px 100px ;
     padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.links {
+    background-color: #00cca3;
+    width: 400px;
+    height: 100vh;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
 }
